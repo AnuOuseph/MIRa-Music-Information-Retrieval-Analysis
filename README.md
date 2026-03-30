@@ -5,12 +5,12 @@ A comprehensive AI-powered music analysis system built with FastAPI and Next.js.
 
 ### Features
 
-- ** Audio Analysis**: Tempo (BPM), key detection, loudness measurements
-- ** AI-Powered Recognition**: Instrument identification using Hugging Face models
-- ** Music Intelligence**: Genre classification, mood analysis, song structure
-- ** Modern Web API**: RESTful FastAPI backend with automatic OpenAPI documentation
-- ** Real-time Processing**: Instant analysis with progress indicators
-- ** Beautiful UI**: Modern React frontend with drag-and-drop upload
+-  Audio Analysis**: Tempo (BPM), key detection, loudness measurements
+-  AI-Powered Recognition**: Instrument identification using Hugging Face models
+-  Music Intelligence**: Genre classification, mood analysis, song structure
+-  Modern Web API**: RESTful FastAPI backend with automatic OpenAPI documentation
+-  Real-time Processing**: Instant analysis with progress indicators
+-  Beautiful UI**: Modern React frontend with drag-and-drop upload
 
 ### Tech Stack
 
